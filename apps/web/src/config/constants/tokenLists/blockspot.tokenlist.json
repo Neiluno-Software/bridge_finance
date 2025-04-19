@@ -1,0 +1,14 @@
+{
+    "1": {
+        "Native": "0x0402063814f4947f40ff40dd5abefb356e969cce",
+        "SPOT": "0x53020F42f6Da51B50cf6E23e45266ef223122376"
+    },
+    "5": {
+        "Native": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+        "SPOT": "0xC8D9480B688af84Da5c36D8D020535E100d32eD0"
+    },
+    "97": {
+        "Native": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+        "SPOT": "0xC8D9480B688af84Da5c36D8D020535E100d32eD0"
+    }
+}

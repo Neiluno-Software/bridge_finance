@@ -1,0 +1,14 @@
+{
+  "name": "SpotHub OnRamp List",
+  "timestamp": "2023-11-11T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://hub.orb3.tech/logo.png",
+  "keywords": ["spothub", "default"],
+  "tokens": [
+  ]
+}

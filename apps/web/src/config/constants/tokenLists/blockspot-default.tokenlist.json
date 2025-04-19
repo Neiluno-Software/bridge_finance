@@ -1,0 +1,78 @@
+{
+  "name": "SpotHub Default List",
+  "timestamp": "2023-11-11T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://spothub.xyz/logo.png",
+  "keywords": ["spot", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0x14229c0930C9792B39ECB08028A2784A016935aC",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 78717,
+      "logoURI": "https://tokens-flack.netlify.app/images/symbol/weth.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x5775cBc16B43c249D2e28E6A751e40bc29F48a2B",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 78717,
+      "logoURI": "https://tokens-flack.netlify.app/images/symbol/usdc.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x6d00250dfb83052d8741b66CaFcd5521A863fA92",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 78717,
+      "logoURI": "https://tokens-flack.netlify.app/images/symbol/usdt.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x14229c0930C9792B39ECB08028A2784A016935aC",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 788988,
+      "logoURI": "https://tokens-flack.netlify.app/images/symbol/weth.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x11474584c45938E31D4f45E88cCC0cf85D48440a",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 788988,
+      "logoURI": "https://tokens-flack.netlify.app/images/symbol/usdc.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x8fAC98e1F62A35863f27FC8DaCC8049248c2C18D",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 788988,
+      "logoURI": "https://tokens-flack.netlify.app/images/symbol/usdt.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://tokens-flack.netlify.app/images/symbol/usdc.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://tokens-flack.netlify.app/images/symbol/usdt.png"
+    }
+  ]
+}
